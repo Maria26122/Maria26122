@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Maria Islam Shuchona</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
-<!--
-**Maria26122/Maria26122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariaislamshuchona&label=Profile%20views&color=0e75b6&style=flat" alt="mariaislamshuchona" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I'm currently specializing in **Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mariaislamshuchona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariaislamshuchona" height="30" width="40" /></a>
+<a href="https://fb.com/mariaislamshuchona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariaislamshuchona" height="30" width="40" /></a>
+<a href="https://instagram.com/mariaislamshuchona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariaislamshuchona" height="30" width="40" /></a>
+</p>
+
+### GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaislamshuchona&show_icons=true&locale=en&layout=compact" alt="mariaislamshuchona" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaislamshuchona&show_icons=true&locale=en" alt="mariaislamshuchona" /></p>
