@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Islam Shuchona</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariaislamshuchona&label=Profile%20views&color=0e75b6&style=flat" alt="mariaislamshuchona" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Maria26122&label=Profile%20views&color=0e75b6&style=flat" alt="Maria26122" /> </p>
 
 - 🌱 I'm currently specializing in **Web Development**
 
@@ -13,6 +13,6 @@
 </p>
 
 ### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaislamshuchona&show_icons=true&locale=en&layout=compact" alt="mariaislamshuchona" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maria26122&show_icons=true&locale=en&layout=compact" alt="Maria26122" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaislamshuchona&show_icons=true&locale=en" alt="mariaislamshuchona" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maria26122&show_icons=true&locale=en" alt="Maria26122" /></p>
