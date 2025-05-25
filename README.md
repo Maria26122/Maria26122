@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maria Islam Shuchona</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate Machine Learning Reseacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maria26122&label=Profile%20views&color=0e75b6&style=flat" alt="Maria26122" /> </p>
 
-- 🌱 I'm currently specializing in **Web Development**
+- 🌱 I'm currently specializing in **Machine Learning**
 
 ### Connect with me:
 <p align="left">
