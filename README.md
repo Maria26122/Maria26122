@@ -12,7 +12,4 @@
 <a href="https://instagram.com/mariaislamshuchona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariaislamshuchona" height="30" width="40" /></a>
 </p>
 
-### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maria26122&show_icons=true&locale=en&layout=compact" alt="Maria26122" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maria26122&show_icons=true&locale=en" alt="Maria26122" /></p>
